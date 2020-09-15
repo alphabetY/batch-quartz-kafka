@@ -1,4 +1,4 @@
-##  SpringBatch-KafkaDB Demo ##
+##  SpringBatch-Kafka-quartz ##
 ---
 
 ### What is it? ###
